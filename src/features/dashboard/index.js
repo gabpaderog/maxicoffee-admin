@@ -1,0 +1,1 @@
+export {default as DashboardShow} from './pages/showDashboard'
